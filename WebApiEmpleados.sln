@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiEmpleados", "WebApiEmpleados.csproj", "{73576D99-B906-408C-B79A-111BC71538E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitioWeb", "..\SitioWeb\SitioWeb.csproj", "{C39A265D-392C-47A9-A893-3058C29AB1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73576D99-B906-408C-B79A-111BC71538E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73576D99-B906-408C-B79A-111BC71538E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73576D99-B906-408C-B79A-111BC71538E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73576D99-B906-408C-B79A-111BC71538E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39A265D-392C-47A9-A893-3058C29AB1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39A265D-392C-47A9-A893-3058C29AB1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39A265D-392C-47A9-A893-3058C29AB1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39A265D-392C-47A9-A893-3058C29AB1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674DFC18-E97C-4FD8-B6CD-7F7D5643894F}
+	EndGlobalSection
+EndGlobal
